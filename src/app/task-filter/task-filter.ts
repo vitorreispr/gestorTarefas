@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   templateUrl: './task-filter.html',
   styleUrl: './task-filter.css',
 })
-export class TaskFilter {}
+export class TaskFilterComponent {}
